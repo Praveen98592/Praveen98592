@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there, I'm Praveen Puthran! 👋
 
-<!--
-**Praveen98592/Praveen98592** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Senior .NET Developer with **25+ years** of enterprise software 
+experience, specializing in **Healthcare IT** and **Manufacturing** 
+domains.
 
-Here are some ideas to get you started:
+📍 **Based in:** Mumbai, India  
+💼 **Last Role:** Deputy Manager - Applications at Transasia Bio-Medicals  
+🌍 **International Experience:** On-site project delivery in Rome, Italy  
+🎯 **Currently:** Modernizing skill set with ASP.NET Core 8 + EF Core 8
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Core Expertise (25+ years)
+- **Languages:** C#, VB.NET, T-SQL, JavaScript
+- **Frameworks:** .NET Framework, ASP.NET MVC, WPF, WCF
+- **Database:** SQL Server 2008-2022
+- **Reporting:** Crystal Reports, SSRS
+
+### Recently Acquired (2026)
+- **ASP.NET Core 8 MVC**
+- **Entity Framework Core 8** (Code-First)
+- **CRUD operations with EF Core**
+- **Razor Views, Tag Helpers, Model Binding**
+- **Dependency Injection**
+- **Bootstrap UI Integration**
+- **Visual Studio 2022**
+
+### Currently Learning
+- 🔄 ASP.NET Core Identity
+- 🔄 Web API + JWT Authentication
+- 🔜 Microsoft Azure AZ-900
+
+## 💼 Domain Expertise
+- 🏥 Healthcare IT
+- 🔬 Lab Diagnostic Systems
+- 🏭 Manufacturing Software
+
+## 📫 Connect With Me
+- 📧 Email: praveenpuuthran@gmail.com
+- 💼 LinkedIn: linkedin.com/in/praveen-puthran-793176204
+
+## 🎯 Open To
+Senior .NET Developer / Tech Lead / Architect roles in:
+- 📍 Mumbai, Pune, Bangalore (India)
+- 🌍 Dubai, UAE
+- 🌍 UK, Germany, Singapore
+
+---
+
+⭐ *"Bringing 25+ years of depth + modern skills to meaningful work"* ⭐
