@@ -7,14 +7,14 @@ domains.
 
 📍 **Based in:** Mumbai, India  
 💼 **Last Role:** Deputy Manager - Applications at Transasia Bio-Medicals  
-🌍 **International Experience:** On-site project delivery in Rome, Italy  
+🌍 **International Experience:** Worked on development in Rome, Italy — demonstrating international exposure and technical collaboration  
 🎯 **Currently:** Modernizing skill set with ASP.NET Core 8 + EF Core 8
 
 ## 🛠️ Tech Stack
 
 ### Core Expertise (25+ years)
 - **Languages:** C#, VB.NET, T-SQL, JavaScript
-- **Frameworks:** .NET Framework, ASP.NET MVC, WPF, WCF
+- **Frameworks:** .NET Framework, ASP.NET, WPF
 - **Database:** SQL Server 2008-2022
 - **Reporting:** Crystal Reports, SSRS
 
@@ -30,7 +30,7 @@ domains.
 ### Currently Learning
 - 🔄 ASP.NET Core Identity
 - 🔄 Web API + JWT Authentication
-- 🔜 Microsoft Azure AZ-900
+- 🔜 MicroServices with RabbitMQ
 
 ## 💼 Domain Expertise
 - 🏥 Healthcare IT
